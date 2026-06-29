@@ -1,0 +1,177 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T01:59:54Z",
+  "window": "2026-06-28T15:00:00Z to 2026-06-29T15:00:00Z",
+  "categories": {
+    "promotional": {
+      "total": 16,
+      "groups": {
+        "Shopping": [
+          {
+            "from": "no-reply@em.macys.com",
+            "subject": "Up to 60% off! Star Deals Week ends tonight ⭐",
+            "time": "4:05 PM"
+          },
+          {
+            "from": "DSG@e.dcsg.com",
+            "subject": "Next round starts TODAY ⚽",
+            "time": "1:26 PM"
+          },
+          {
+            "from": "email@us.uniqlo.com",
+            "subject": "Tushar, we have a deal!",
+            "time": "12:58 PM"
+          },
+          {
+            "from": "shop@emails.macys.com",
+            "subject": "Star Deals Week: up to 60% off summer handbags",
+            "time": "12:11 PM"
+          },
+          {
+            "from": "shop@emails.macys.com",
+            "subject": "$21.99+ men's shorts & more deals to shop now",
+            "time": "9:14 AM"
+          },
+          {
+            "from": "gapfactory@email.gapfactory.com",
+            "subject": "Fourth of July Sale: 50-70% off sitewide",
+            "time": "9:04 AM"
+          },
+          {
+            "from": "noreply@email.alibaba.com",
+            "subject": "swatch ap royal pop: compare prices via Image Search",
+            "time": "8:12 AM"
+          },
+          {
+            "from": "email@us.edm.uniqlo.com",
+            "subject": "Last day for Summer Giveaway",
+            "time": "8:07 AM"
+          }
+        ],
+        "Food & Dining": [
+          {
+            "from": "Promotions@my.pizzahut.com",
+            "subject": "Crust lovers, this one's for you",
+            "time": "1:04 PM"
+          },
+          {
+            "from": "offers@e-offers.dominos.com",
+            "subject": "It's National Foodie Day! Time to Mix & Match",
+            "time": "12:10 PM"
+          },
+          {
+            "from": "no-reply+a2057c40@toast-restaurants.com",
+            "subject": "Veggie Food That Actually Hits",
+            "time": "9:01 AM"
+          },
+          {
+            "from": "arbys@emails.arbys.com",
+            "subject": "Meat Mode means you don't order just one",
+            "time": "8:29 AM"
+          }
+        ],
+        "Travel": [
+          {
+            "from": "travelocity@ac.travelocity.com",
+            "subject": "Free cancellation options means more flexibility for your family trip",
+            "time": "12:46 PM"
+          },
+          {
+            "from": "mailers@marketing.goindigo.in",
+            "subject": "30% OFF on Cabs with IndiGo",
+            "time": "9:55 AM"
+          }
+        ],
+        "Finance": [
+          {
+            "from": "hello@limitless.joinabound.com",
+            "subject": "Hey, don't miss out on $1 = Rs.96.25 rate + instant cash back",
+            "time": "11:09 AM"
+          }
+        ],
+        "Entertainment": [
+          {
+            "from": "support@vinhgiang.com",
+            "subject": "[V] A GOAT followed me",
+            "time": "3:58 PM"
+          }
+        ]
+      }
+    },
+    "important": {
+      "total": 9,
+      "needs_action": [
+        {
+          "from": "noreply@github.com",
+          "subject": "[GitHub] A personal access token (classic) has been added to your account",
+          "time": "6:43 PM"
+        },
+        {
+          "from": "aipmcourse@courses.maven.com",
+          "subject": "You have an event for AI Product Management Course starting in 20 minutes",
+          "time": "9:40 AM"
+        },
+        {
+          "from": "notifications@link.com",
+          "subject": "New login from macOS (Electron)",
+          "time": "9:39 AM"
+        }
+      ],
+      "informational": [
+        {
+          "from": "no-reply@accounts.google.com",
+          "subject": "Security alert: Claude for Gmail access granted",
+          "time": "5:58 PM"
+        },
+        {
+          "from": "no-reply@email.claude.com",
+          "subject": "Welcome to Claude Code",
+          "time": "2:30 PM"
+        },
+        {
+          "from": "no-reply@doordash.com",
+          "subject": "Your Saffron Indian Cuisine Bar & Grill pickup order is ready!",
+          "time": "2:03 PM"
+        },
+        {
+          "from": "no-reply@doordash.com",
+          "subject": "Order Confirmation for Tushar from Saffron Indian Cuisine Bar & Grill",
+          "time": "1:45 PM"
+        },
+        {
+          "from": "invoice+statements@mail.anthropic.com",
+          "subject": "Your receipt from Anthropic, PBC #2844-4179-8850",
+          "time": "9:39 AM"
+        },
+        {
+          "from": "no-reply@mail.anthropic.com",
+          "subject": "Welcome to the Pro plan",
+          "time": "9:39 AM"
+        }
+      ]
+    },
+    "pending_bills": {
+      "total": 0,
+      "items": []
+    },
+    "matrimonial": {
+      "total": 2,
+      "items": [
+        {
+          "from": "matchalert@jeevansathi.com",
+          "subject": "You sent 1 interest/acceptance yesterday, now connect with these profiles similar to them.",
+          "time": "6:33 PM"
+        },
+        {
+          "from": "matchalert@jeevansathi.com",
+          "subject": "Your Match of the Day is Nikita Choudhary",
+          "time": "8:23 AM"
+        }
+      ]
+    },
+    "others": {
+      "total": 0,
+      "items": []
+    }
+  }
+}
