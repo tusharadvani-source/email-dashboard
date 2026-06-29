@@ -1,0 +1,52 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T15:00:00Z",
+  "window": "2026-06-27T15:00:00Z to 2026-06-28T15:00:00Z",
+  "categories": {
+    "promotional": {
+      "total": 4,
+      "groups": {
+        "Shopping": [
+          { "from": "Amazon", "subject": "Your order has shipped!", "time": "09:12 AM" },
+          { "from": "Flipkart", "subject": "Mega Sale — 70% off today only", "time": "11:45 AM" }
+        ],
+        "Travel": [
+          { "from": "MakeMyTrip", "subject": "Flight deals from Mumbai this weekend", "time": "08:30 AM" }
+        ],
+        "Food & Dining": [
+          { "from": "Zomato", "subject": "It's lunchtime! Here's what's trending", "time": "12:00 PM" }
+        ]
+      }
+    },
+    "important": {
+      "total": 3,
+      "informational": [
+        { "from": "HR Team", "subject": "Q3 company all-hands scheduled for July 10", "time": "10:00 AM" },
+        { "from": "IT Support", "subject": "Planned maintenance window — Saturday 2am-4am", "time": "02:15 PM" }
+      ],
+      "needs_action": [
+        { "from": "Manager", "subject": "Please review and approve the Q2 report by EOD", "time": "09:00 AM" }
+      ]
+    },
+    "pending_bills": {
+      "total": 2,
+      "items": [
+        { "from": "Airtel", "subject": "Your bill of ₹999 is due on July 1", "time": "07:00 AM" },
+        { "from": "Netflix", "subject": "Payment of ₹649 will be charged on July 3", "time": "07:01 AM" }
+      ]
+    },
+    "matrimonial": {
+      "total": 1,
+      "items": [
+        { "from": "Shaadi.com", "subject": "3 new profile matches for you", "time": "08:00 AM" }
+      ]
+    },
+    "others": {
+      "total": 2,
+      "items": [
+        { "from": "GitHub", "subject": "Your repository email-dashboard was created", "time": "01:10 PM" },
+        { "from": "no-reply@accounts.google.com", "subject": "Security alert: new sign-in on Chrome", "time": "03:45 PM" }
+      ]
+    }
+  }
+}
