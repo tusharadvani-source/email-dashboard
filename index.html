@@ -352,7 +352,7 @@
 
 <script>
   const REPO = 'tusharadvani-source/email-dashboard';
-  const ROUTINE_ID = '__ROUTINE_ID__'; // replaced after agent creation
+  const ROUTINE_ID = 'trig_01E7LSQNwPMRFTBZyETavG8J';
 
   function fmt(dateStr) {
     const d = new Date(dateStr + 'T12:00:00');
@@ -385,11 +385,10 @@
   }
 
   async function runNow() {
-    if (ROUTINE_ID === '__ROUTINE_ID__') {
-      showToast('Routine not yet configured. Check back after setup.');
-      return;
-    }
-    showToast('Triggering agent… check back in ~2 minutes.');
+    showToast('Opening routine page to trigger agent on demand…');
+    setTimeout(() => {
+      window.open('https://claude.ai/code/routines/' + ROUTINE_ID, '_blank');
+    }, 600);
   }
 
   function renderSection({ id, icon, label, colorClass, badgeClass, count, bodyFn }) {
